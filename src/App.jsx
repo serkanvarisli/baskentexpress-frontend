@@ -1,5 +1,5 @@
 import Footer from './components/Footer';
-import Container from './components/Container';
+import Container from './components/container.jsx';
 import './style.css';
 
 function App() {
