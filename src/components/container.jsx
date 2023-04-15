@@ -2,7 +2,7 @@ import React from 'react';
 import '../style.css';
 import Header from './Header';
 import Form from './Form';
-import Darkmode from './Darkmode';
+import Darkmode from './darkmode';
 
 function Container() {
     return (
