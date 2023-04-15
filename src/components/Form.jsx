@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { ReactDOM } from 'react';
 
-const url = 'http://localhost:8000/api';
+const url = 'https://baskentexpress.onrender.com/api';
 
 const Form = () => {
     const [train, setTrain] = useState();
