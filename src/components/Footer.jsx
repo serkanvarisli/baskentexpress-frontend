@@ -1,11 +1,8 @@
-import React from 'react'
-import '../style.css'
-
+import React from 'react';
+import '../style.css';
 
 function Footer() {
-  return (
-    <div className='footer'>Copyright © Serkan Varışlı 2023</div>
-  )
+    return <div className="footer">Copyright © Serkan Varışlı 2023</div>;
 }
 
-export default Footer
+export default Footer;
