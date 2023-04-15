@@ -2,7 +2,6 @@ import React from 'react';
 import '../style.css';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import { ReactDOM } from 'react';
 
 const url = 'https://baskentexpress.onrender.com/api';
 
