@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style.css';
+import '../style.scss';
 import Header from './Header';
 import Form from './Form';
 import Darkmode from './darkmode';

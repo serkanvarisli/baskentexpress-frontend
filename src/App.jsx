@@ -1,6 +1,6 @@
 import Footer from './components/Footer';
 import Container from './components/container.jsx';
-import './style.css';
+import './style.scss';
 
 function App() {
     return (
